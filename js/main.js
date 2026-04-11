@@ -1,6 +1,6 @@
 /* ============================================
    MCS GENERAL CONTRACTING - ENHANCED JAVASCRIPT
-   Touq-inspired Layout - v2.0
+   
    ============================================ */
 
 const MCSApp = (function() {
