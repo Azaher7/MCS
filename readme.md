@@ -1,5 +1,5 @@
 # MCS General Contracting & Maintenance LLC - Website v2.0
-## Touq-inspired Layout - PRODUCTION-READY IMAGES
+
 
 Professional website featuring high-quality stock photography for marketing sections and authentic brochure images for project portfolio.
 
