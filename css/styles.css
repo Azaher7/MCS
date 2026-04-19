@@ -307,14 +307,13 @@ p:last-child { margin-bottom: 0; }
 }
 
 .logo__icon {
-  width: 44px;
+  width: auto;
   height: 44px;
   object-fit: contain;
 }
 
 @media (min-width: 768px) {
   .logo__icon {
-    width: 52px;
     height: 52px;
   }
 }
@@ -1942,7 +1941,7 @@ p:last-child { margin-bottom: 0; }
 }
 
 .footer__logo-icon {
-  width: 48px;
+  width: auto;
   height: 48px;
   object-fit: contain;
 }
